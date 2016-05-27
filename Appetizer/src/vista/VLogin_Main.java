@@ -21,8 +21,8 @@ public class VLogin_Main extends JFrame {
 	public VLogin_Main() {
 		super("Appetizer Login");
 		System.out.println("Github es la clave");
-		System.out.println("miguel");
-		System.out.println("javi");
+		System.out.println("Hola");
+		System.out.println("alberto");
 		init();
 	}
 
@@ -121,4 +121,6 @@ public class VLogin_Main extends JFrame {
 	public void mostratrMsgError(){
 		JOptionPane.showMessageDialog(this, "Usuario/Contraseña incorrectos. Vuelve a intentarlo", "Usuario/Contraseña incorrecto", JOptionPane.ERROR_MESSAGE);
 	}
+	
+	// hola
 }
