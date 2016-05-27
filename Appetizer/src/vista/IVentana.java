@@ -9,4 +9,4 @@ public interface IVentana {
 	public void setControlador(ControladorVentanas c);
 	public void definirPanel(JPanel panel);
 }
-
+//hola
