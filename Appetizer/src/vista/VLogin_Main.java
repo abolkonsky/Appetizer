@@ -121,6 +121,4 @@ public class VLogin_Main extends JFrame {
 	public void mostratrMsgError(){
 		JOptionPane.showMessageDialog(this, "Usuario/Contraseña incorrectos. Vuelve a intentarlo", "Usuario/Contraseña incorrecto", JOptionPane.ERROR_MESSAGE);
 	}
-	
-	// hola
 }
