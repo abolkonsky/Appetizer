@@ -20,6 +20,9 @@ public class VLogin_Main extends JFrame {
 	// constructor
 	public VLogin_Main() {
 		super("Appetizer Login");
+		System.out.println("Github es la clave");
+		System.out.println("Miguel");
+		System.out.println("Alberto");
 		init();
 	}
 
