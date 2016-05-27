@@ -10,4 +10,3 @@ public interface IVentana {
 	public void definirPanel(JPanel panel);
 }
 
-//HOLAAA
