@@ -22,6 +22,7 @@ public class VLogin_Main extends JFrame {
 		super("Appetizer Login");
 		System.out.println("Github es la clave");
 		System.out.println("miguel");
+		System.out.println("javi");
 		init();
 	}
 
